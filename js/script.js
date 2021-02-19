@@ -1,3 +1,3 @@
 let hello;
-hello = "Привет";
+hello = "Приd";
 console.log(hello);
