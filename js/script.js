@@ -1,3 +1,18 @@
-let hello;
-hello = "Привет";
-console.log(hello);
+let sum;
+let score;
+
+const question1 = {
+
+}
+
+const question2 = {
+
+}
+
+const question3 = {
+
+}
+
+const question4 = {
+
+}
